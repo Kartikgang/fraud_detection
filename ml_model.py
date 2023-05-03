@@ -6,3 +6,5 @@ b=6
 c=a+b
 
 print (c)
+
+print ("model is giveing right answer")
